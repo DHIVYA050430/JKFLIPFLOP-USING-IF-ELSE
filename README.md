@@ -94,4 +94,5 @@ endmodule
 ![flipflop 2](https://github.com/DHIVYA050430/JKFLIPFLOP-USING-IF-ELSE/assets/147141546/6448981f-b5ff-4a80-abeb-cd6cfe990221)
 
 **RESULTS**
+
 The code executed successfully.
